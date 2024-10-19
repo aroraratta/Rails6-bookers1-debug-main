@@ -48,10 +48,6 @@
     "workspace": {
         "@folders": [
             {
-                "name": "bookers",
-                "path": "/bookers"
-            },
-            {
                 "name": "sites",
                 "path": "/sites"
             }
